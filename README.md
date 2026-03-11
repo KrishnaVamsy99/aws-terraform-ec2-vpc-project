@@ -9,7 +9,7 @@ The goal of this project is to create a simple AWS network architecture and laun
 
 # Architecture Diagram
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](Mini_Project_VPC_Creation.drawio)
 
 ---
 
